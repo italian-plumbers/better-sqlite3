@@ -13,7 +13,8 @@
     "binding.gyp",
     "src/*.[ch]pp",
     "lib/**",
-    "deps/**"
+    "deps/**",
+    "build/**"
   ],
   "engines": {
     "node": "20.x || 22.x || 23.x || 24.x"
